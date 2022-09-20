@@ -25275,7 +25275,7 @@ Vdrop: 5mV Typ. @ 10mA</text>
 <text x="35.56" y="200.66" size="1.778" layer="97" font="vector" align="center">Cut "SHLD" to disconnect shield
 from ground.</text>
 <text x="340.36" y="129.54" size="1.778" layer="97" font="vector" align="center">Cut Jumpers to isolate UART lines from 
-CH340C</text>
+CH340E</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
