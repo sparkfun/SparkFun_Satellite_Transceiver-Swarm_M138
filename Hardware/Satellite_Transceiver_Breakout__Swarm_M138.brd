@@ -13831,8 +13831,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <contactref element="Q3" pad="2"/>
 <contactref element="Q3" pad="5"/>
 <wire x1="4.445" y1="14.77" x2="4.445" y2="13.17" width="0.1524" layer="1"/>
-<wire x1="4.445" y1="13.17" x2="4.445" y2="12.28" width="0.1524" layer="1"/>
-<wire x1="4.445" y1="12.28" x2="5.295" y2="11.43" width="0.1524" layer="1"/>
+<wire x1="4.445" y1="13.17" x2="4.445" y2="11.645" width="0.1524" layer="1"/>
+<wire x1="4.66" y1="11.43" x2="5.295" y2="11.43" width="0.1524" layer="1"/>
+<wire x1="4.66" y1="11.43" x2="4.445" y2="11.645" width="0.1524" layer="1"/>
 <wire x1="5.095" y1="13.17" x2="5.095" y2="11.63" width="0.1524" layer="1"/>
 <wire x1="5.095" y1="11.63" x2="5.295" y2="11.43" width="0.1524" layer="1"/>
 </signal>
