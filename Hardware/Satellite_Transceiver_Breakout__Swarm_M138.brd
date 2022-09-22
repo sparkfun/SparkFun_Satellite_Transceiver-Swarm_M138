@@ -13227,15 +13227,15 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="DIO-09003" x="21.59" y="10.16" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="VALUE" x="22.225" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
-<element name="R3" library="SparkFun-Resistors" package="0603" value="100" x="12.065" y="10.16" smashed="yes" rot="R270">
+<element name="R3" library="SparkFun-Resistors" package="0603" value="1k" x="12.065" y="10.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.827" y="10.16" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-07863" x="12.065" y="10.16" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
-<attribute name="VALUE" value="100" x="11.303" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+<attribute name="PROD_ID" value="RES-07856" x="12.065" y="10.16" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="VALUE" value="1k" x="11.303" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="R4" library="SparkFun-Resistors" package="0603" value="100" x="23.495" y="10.16" smashed="yes" rot="R270">
+<element name="R4" library="SparkFun-Resistors" package="0603" value="2.2k" x="23.495" y="10.16" smashed="yes" rot="R270">
 <attribute name="NAME" x="24.257" y="10.16" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="RES-07863" x="23.495" y="10.16" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
-<attribute name="VALUE" value="100" x="22.733" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
+<attribute name="PROD_ID" value="RES-08272" x="23.495" y="10.16" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="VALUE" value="2.2k" x="22.733" y="10.16" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
 <element name="RXI" library="SparkFun-Jumpers" package="COMBO-JUMPER_2_NC_TRACE" value="JUMPER-COMBO_2_NC_TRACE" x="1.27" y="44.45" smashed="yes" rot="MR270">
 <attribute name="NAME" x="0.127" y="44.45" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
