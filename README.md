@@ -1,9 +1,9 @@
-SparkFun <PRODUCT NAME>
+SparkFun Satellite Transceiver - Swarm M138
 ========================================
 
-[![SparkFun Part Name](URL for picture of part)](URL for product on Sparkfun.com)
+[![SparkFun Satellite Transceiver - Swarm M138](URL for picture of part)]([URL for product on Sparkfun.com](https://www.sparkfun.com/products/21218))
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun Satellite Transceiver - Swarm M138 (21218)*](https://www.sparkfun.com/products/21218)
 
 <Basic description of the part.>
 
@@ -11,12 +11,9 @@ Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
+* **/Tools** - 
 
 Documentation
 --------------
