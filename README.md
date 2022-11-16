@@ -1,7 +1,7 @@
 SparkFun Satellite Transceiver - Swarm M138
 ========================================
 
-[![SparkFun Satellite Transceiver Kit - Swarm M138](https://cdn.sparkfun.com/assets/parts/2/1/0/7/1/21218-Swarm-kit.jpg)]([URL for product on Sparkfun.com](https://www.sparkfun.com/products/21287))
+[![SparkFun Satellite Transceiver Kit - Swarm M138](https://cdn.sparkfun.com/assets/parts/2/1/0/7/1/21218-Swarm-kit.jpg)]([https://www.sparkfun.com/products/21287](https://www.sparkfun.com/products/21287))
 
 [*SparkFun Satellite Transceiver Kit - Swarm M138 (21287)*](https://www.sparkfun.com/products/21287)
 
